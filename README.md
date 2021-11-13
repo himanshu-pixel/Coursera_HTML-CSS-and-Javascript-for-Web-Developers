@@ -28,4 +28,4 @@ Instruction are present for the following assigment by the assigned instructor.
 - [Module 5 Solution](https://himanshu-pixel.github.io/coursraModule5/)
 
 **Certificate**
--[My certificate](https://github.com/himanshu-pixel/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/files/7531656/Coursera.TRHEKZ849AA7.pdf)AC
+-[My certificate](https://github.com/himanshu-pixel/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/files/7531656/Coursera.TRHEKZ849AA7.pdf)
